@@ -12,7 +12,7 @@ export const Main1 = () => {
       <div className=" flex  md:justify-between gap-12 md:px-8  ">
         <div className="w-[600px] flex flex-col gap-12">
           <div className="flex flex-col gap-2 ">
-            <div className="md:hidden w-200 h-200">
+            <div className="md:hidden w-50 h-50 ">
               <img src="./agaa2.png" alt="" />
             </div>
             <p className=" text-6xl leading-[72px] not-italic tracking-[-1.2px] font-bold text-gray-900  dark:text-white">
@@ -57,7 +57,7 @@ export const Main1 = () => {
           </div>
         </div>
         <div className="w-[600px]  justify-end items-center md:flex hidden">
-          <img className="w-full  h-auto" src="./agaa2.png" alt="" />
+          <img className="w-100 h-100" src="./agaa2.png" alt="" />
         </div>
       </div>
     </div>

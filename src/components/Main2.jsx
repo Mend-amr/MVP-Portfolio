@@ -12,7 +12,7 @@ export const Main2 = () => {
         <div class="flex flex-col lg:flex-row gap-12">
           <div class="w-full lg:w-1/2">
             <img
-              class="w-400 h-150 rounded-lg shadow-lg "
+              class="w-100 h-100 rounded-lg shadow-lg "
               src="./agaa.jpg"
               alt="About me"
             />
