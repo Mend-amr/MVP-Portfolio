@@ -9,7 +9,7 @@ export const Main4 = () => {
       <div className="flex justify-center font-[400] text-[24px] text-[#4B5563] text-center">
         <h1>Some of the noteworthy projects I have built:</h1>
       </div>
-      <div className="pt-[48px] rounded-[12px] shadow-md p-[48px] flex md:justify-between flex-col ">
+      <div className="pt-[48px] rounded-[12px] shadow-md p-[10px] flex md:justify-between flex-col ">
         <div className="md:flex md:justify-between rounded-[12px]  ">
           <div className="md:w-[50%]  bg-[#F9FAFB] rounded-t-lg  justify-center md:hidden ">
             <div className="w-full p-[48px] rounded-t-lg border-2 ">
@@ -46,7 +46,7 @@ export const Main4 = () => {
           </div>
         </div>
       </div>
-      <div className="pt-[48px] rounded-[12px] shadow-md p-[48px] flex md:justify-between flex-col ">
+      <div className="pt-[48px] rounded-[12px] shadow-md p-[10px] flex md:justify-between flex-col ">
         <div className="md:flex md:justify-between rounded-[12px]  ">
           <div className="md:w-[50%]  bg-[#F9FAFB] rounded-t-lg  justify-center md:hidden ">
             <div className="w-full p-[48px] rounded-t-lg border-2 ">
@@ -83,11 +83,11 @@ export const Main4 = () => {
           </div>
         </div>
       </div>
-      <div className="pt-[48px] rounded-[12px] shadow-md p-[48px] flex md:justify-between flex-col ">
+      <div className="pt-[48px] rounded-[12px] shadow-md p-[10px] flex md:justify-between flex-col ">
         <div className="md:flex md:justify-between rounded-[12px]  ">
           <div className="md:w-[50%]  bg-[#F9FAFB] rounded-t-lg  justify-center md:hidden ">
             <div className="w-full p-[48px] rounded-t-lg border-2 ">
-              <img src="3.png" alt="" />
+              <img src="3.jpg" alt="" />
             </div>
           </div>
           <div className="md:w-[50%]  m-auto   bg-[#F9FAFB] md:flex hidden dark:bg-[#374151] rounded-l-lg  ">

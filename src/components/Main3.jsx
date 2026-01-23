@@ -7,7 +7,7 @@ export const Main3 = () => {
       <div className="flex justify-center pb-[16px] ">
         <ButtonUm text="Skills" />
       </div>
-      <div className="flex justify-center font-[400] text-[24px] text-[#4B5563] text-center">
+      <div className="flex justify-center font-[300] text-[24px] text-[#4B5563] text-center">
         <h1>The skills, tools and technologies I am really good at:</h1>
       </div>
       <div className="pt-[48px] flex justify-between flex-wrap ">

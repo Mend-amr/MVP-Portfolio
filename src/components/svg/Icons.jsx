@@ -2,8 +2,8 @@ export const JavaIcon = () => {
   return (
     <div>
       <svg
-        width="64"
-        height="64"
+        width="50"
+        height="50"
         viewBox="0 0 64 64"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -22,13 +22,13 @@ export const TypeIcon = () => {
   return (
     <div>
       <svg
-        width="65"
-        height="64"
+        width="50"
+        height="50"
         viewBox="0 0 65 64"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
       >
-        <g clip-path="url(#clip0_316_272)">
+        <g clipPath="url(#clip0_316_272)">
           <path
             d="M61.874 0H3.87402C2.21717 0 0.874023 1.34315 0.874023 3V61C0.874023 62.6569 2.21717 64 3.87402 64H61.874C63.5309 64 64.874 62.6569 64.874 61V3C64.874 1.34315 63.5309 0 61.874 0Z"
             fill="#3178C6"
@@ -58,13 +58,13 @@ export const ReactIcon = () => {
   return (
     <div>
       <svg
-        width="71"
-        height="64"
+        width="50"
+        height="50"
         viewBox="0 0 71 64"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
       >
-        <g clip-path="url(#clip0_316_277)">
+        <g clipPath="url(#clip0_316_277)">
           <path
             d="M35.6569 38.7725C39.3293 38.7725 42.3063 35.7404 42.3063 32C42.3063 28.2597 39.3293 25.2275 35.6569 25.2275C31.9846 25.2275 29.0076 28.2597 29.0076 32C29.0076 35.7404 31.9846 38.7725 35.6569 38.7725Z"
             fill="#087EA4"
@@ -103,13 +103,13 @@ export const NextIcon = () => {
   return (
     <div>
       <svg
-        width="65"
-        height="64"
+        width="50"
+        height="50"
         viewBox="0 0 65 64"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
       >
-        <g clip-path="url(#clip0_316_285)">
+        <g clipPath="url(#clip0_316_285)">
           <mask
             id="mask0_316_285"
             style={{ maskType: "alpha" }}
@@ -181,8 +181,8 @@ export const NodeIcon = () => {
   return (
     <div>
       <svg
-        width="57"
-        height="64"
+        width="50"
+        height="50"
         viewBox="0 0 57 64"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -200,9 +200,10 @@ export const NodeIcon = () => {
         <defs>
           <clipPath id="clip0_316_295">
             <rect
-              width="56.32"
+              width="57"
               height="64"
-              fill="white"
+              viewBox="0 0 57 64"
+              fill="none"
               transform="translate(0.653809)"
             />
           </clipPath>
@@ -215,8 +216,8 @@ export const ExpressIcon = () => {
   return (
     <div>
       <svg
-        width="65"
-        height="64"
+        width="50"
+        height="50"
         viewBox="0 0 65 64"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -224,7 +225,7 @@ export const ExpressIcon = () => {
         <g clip-path="url(#clip0_316_300)">
           <path
             d="M64.1877 49.59C61.8597 50.182 60.4197 49.616 59.1277 47.676L49.9397 34.964L48.6117 33.204L37.8817 47.718C36.6557 49.464 35.3697 50.224 33.0817 49.606L46.8217 31.162L34.0297 14.502C36.2297 14.074 37.7497 14.292 39.0997 16.262L48.6297 29.132L58.2297 16.332C59.4597 14.586 60.7817 13.922 62.9897 14.566L58.0297 21.142L51.3097 29.892C50.5097 30.892 50.6197 31.576 51.3557 32.542L64.1877 49.59ZM0.203744 30.854L1.32774 25.326C4.38774 14.386 16.9277 9.84002 25.5757 16.6C30.6297 20.576 31.8857 26.2 31.6357 32.5H3.14774C2.71974 43.84 10.8817 50.684 21.2877 47.192C24.9377 45.966 27.0877 43.108 28.1637 39.532C28.7097 37.74 29.6137 37.46 31.2977 37.972C30.4377 42.444 28.4977 46.18 24.3977 48.518C18.2717 52.018 9.52774 50.886 4.92774 46.022C2.18774 43.2 1.05574 39.624 0.547744 35.8C0.467744 35.168 0.307744 34.566 0.187744 33.96C0.198411 32.9254 0.203744 31.8907 0.203744 30.856V30.854ZM3.19974 30.094H28.9437C28.7757 21.894 23.6697 16.07 16.6917 16.02C9.03174 15.96 3.53174 21.646 3.19974 30.094Z"
-            fill="black"
+            fill="white"
           />
         </g>
         <defs>
@@ -245,8 +246,8 @@ export const NestIcon = () => {
   return (
     <div>
       <svg
-        width="67"
-        height="64"
+        width="50"
+        height="50"
         viewBox="0 0 67 64"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -265,8 +266,8 @@ export const SockedIcon = () => {
   return (
     <div>
       <svg
-        width="65"
-        height="64"
+        width="50"
+        height="50"
         viewBox="0 0 65 64"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -274,7 +275,7 @@ export const SockedIcon = () => {
         <g clip-path="url(#clip0_316_308)">
           <path
             d="M64.4879 31.295C64.3139 20.595 58.3479 10.177 49.1179 4.69099C41.8459 0.161987 32.6599 -1.05701 24.3859 1.03299C11.9329 4.16799 2.00488 15.446 0.742881 28.3C-0.825119 40.44 5.31488 53.066 15.8079 59.292C26.0839 65.736 40.0609 65.475 50.1079 58.692C59.1649 52.814 64.7819 42.092 64.4779 31.304L64.4879 31.295ZM34.2699 59.25C19.7269 60.687 5.66288 48.365 5.26988 33.778C4.16988 21.935 11.9749 10.222 23.1219 6.30299C38.7539 0.0329871 57.9559 11.615 59.5669 28.38C62.0929 43.444 49.5529 58.78 34.2699 59.25ZM24.6999 30.38L45.7299 13.18L34.3659 30.423C31.1439 30.423 27.9219 30.424 24.6999 30.38ZM30.6129 33.56L40.2789 33.604L19.2489 50.847L30.6129 33.56Z"
-            fill="#010101"
+            fill="white"
           />
         </g>
         <defs>
@@ -296,8 +297,8 @@ export const SassIcon = () => {
   return (
     <div>
       <svg
-        width="65"
-        height="64"
+        width="50"
+        height="50"
         viewBox="0 0 65 64"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -314,8 +315,8 @@ export const TailIcon = () => {
   return (
     <div>
       <svg
-        width="106"
-        height="64"
+        width="50"
+        height="50"
         viewBox="0 0 106 64"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -359,8 +360,8 @@ export const FigmaaIcon = () => {
   return (
     <div>
       <svg
-        width="44"
-        height="64"
+        width="50"
+        height="50"
         viewBox="0 0 44 64"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -405,8 +406,8 @@ export const CypressIcon = () => {
   return (
     <div>
       <svg
-        width="65"
-        height="64"
+        width="50"
+        height="50"
         viewBox="0 0 65 64"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -455,8 +456,8 @@ export const StoryIcon = () => {
   return (
     <div>
       <svg
-        width="65"
-        height="64"
+        width="50"
+        height="50"
         viewBox="0 0 65 64"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -481,8 +482,8 @@ export const GitIcon = () => {
   return (
     <div>
       <svg
-        width="64"
-        height="64"
+        width="50"
+        height="50"
         viewBox="0 0 64 64"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"

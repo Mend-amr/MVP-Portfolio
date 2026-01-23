@@ -19,7 +19,7 @@ import {
 export const Skills = () => {
   return (
     <div className="flex md:justify-center md:flex-wrap md:gap-16  justify-between flex-wrap gap-6  ">
-      <SkillIcon Icon={<JavaIcon />} text={"dadasadsad"} />
+      <SkillIcon Icon={<JavaIcon />} text={"Javascript"} />
       <SkillIcon Icon={<TypeIcon />} text={"Typescript"} />
       <SkillIcon Icon={<ReactIcon />} text={"React"} />
       <SkillIcon Icon={<NextIcon />} text={"Next.JS"} />
